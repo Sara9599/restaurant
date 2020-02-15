@@ -1,0 +1,17 @@
+.div1{
+  float:center;
+  border:5px solid black;
+  padding:50px;
+  font-size: 20px;
+  
+  margin-top: 150px;
+  margin-left: 100px;
+  margin-right: 100px;
+  box-sizing: 50px;
+
+}
+body {
+  background-image: url("plain.jpg");
+   background-repeat: no-repeat;
+  background-size: cover;
+}
